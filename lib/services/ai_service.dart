@@ -55,8 +55,8 @@ class AIService {
       // Convert to input tensor with MobileNetV2 preprocessing
       var input = _imageToByteListFloat32(resizedImage);
 
-      // Prepare output tensor for 36 classes
-      var output = List.filled(1 * 36, 0.0).reshape([1, 36]);
+      // Prepare output tensor for 37 classes
+      var output = List.filled(1 * 37, 0.0).reshape([1, 37]);
 
       // Run inference
       _interpreter!.run(input, output);

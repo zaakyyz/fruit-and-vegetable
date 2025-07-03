@@ -18,6 +18,7 @@ kiwi
 lemon
 lettuce
 mango
+not_fruit_or_vegetable
 onion
 orange
 paprika

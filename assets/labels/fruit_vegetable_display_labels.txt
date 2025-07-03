@@ -18,6 +18,7 @@ Kiwi
 Lemon
 Lettuce
 Mango
+Not Fruit Or Vegetable
 Onion
 Orange
 Paprika
