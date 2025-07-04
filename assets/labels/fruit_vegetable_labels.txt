@@ -6,7 +6,7 @@ cabbage
 capsicum
 carrot
 cauliflower
-chilli pepper
+chilli_pepper
 corn
 cucumber
 eggplant
